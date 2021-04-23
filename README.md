@@ -1,4 +1,4 @@
-# Almost all you could need to work with the ESP boards
+# Almost all the documentation you could need to work with the ESP boards
 
 I just wanted a place where I can easily find all the docs I might need and/or needed when working with either the ESP32 or the ESP8266.
 
